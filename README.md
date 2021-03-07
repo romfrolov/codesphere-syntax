@@ -2,4 +2,4 @@
 
 Unofficial Codesphere Syntax theme for Atom IDE.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](https://i.ibb.co/60hqNGx/Screen-Shot-2021-03-07-at-5-48-47-PM.png)
