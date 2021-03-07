@@ -1,0 +1,16 @@
+{
+  "name": "codesphere-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Unofficial Codesphere Syntax theme for Atom IDE",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/codesphere-syntax",
+  "author": "Roman Frolov",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
