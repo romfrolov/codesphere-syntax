@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/codesphere-syntax",
+  "repository": "https://github.com/romfrolov/codesphere-syntax",
   "author": "Roman Frolov",
   "license": "MIT",
   "engines": {
