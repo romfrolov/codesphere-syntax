@@ -1,5 +1,7 @@
 # codesphere-syntax theme
 
+Deprecated.
+
 Unofficial Codesphere Syntax theme for Atom IDE.
 
 ## Screenshots
